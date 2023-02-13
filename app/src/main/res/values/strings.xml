@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">foosball</string>
+    <string name="activity_text_add_game_results">Add game results</string>
+    <string name="activity_text_view_game_results">View game results</string>
+    <string name="activity_text_view_leaderboard">View Leaderboard</string>
+    <string name="dlt_text_please_enter_the_match_details">Please enter the match details</string>
+    <string name="dlg_text_player_name">Player name</string>
+    <string name="dlg_text_player_score">Player score</string>
+    <string name="dlg_text_save_results">Save results</string>
+    <string name="dlg_text_game_results">Game results</string>
+    <string name="dlg_text_leaderboard">Leaderboard</string>
+    <string name="dlg_text_remove">Remove</string>
+    <string name="dlg_text_king_of_the_game">King of the game</string>
+    <string name="dlg_text_wins">Wins</string>
+    <string name="dlg_text_games">Games</string>
+    <string name="dlg_text_name">Name</string>
+    <string name="dlt_text_name">Name</string>
+    <string name="dlt_text_score">Score</string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Foosball" parent="Theme.MaterialComponents.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="fontFamily">sans-serif</item>
+        <item name="colorPrimary">@color/heliotrope</item>
+        <item name="android:statusBarColor">@color/shark</item>
+        <item name="android:windowBackground">@color/shark</item>
+        <item name="android:screenOrientation">portrait</item>
+    </style>
+
+    <style name="Theme.BottomSheetDialog" parent="Theme.MaterialComponents.NoActionBar">
+        <item name="android:statusBarColor">@color/shark</item>
+        <item name="fontFamily">sans-serif</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowDisablePreview">false</item>
+    </style>
+
+</resources>
